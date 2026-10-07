@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "284434143597",
+    "firebase_url": "https://letsholo-money-default-rtdb.firebaseio.com",
+    "project_id": "letsholo-money",
+    "storage_bucket": "letsholo-money.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284434143597:android:fc8c62a4479c0f4a7da264",
+        "android_client_info": {
+          "package_name": "com.letsholo.money"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284434143597-ke3t6l993nauavjirguiircg511199kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.letsholo.money",
+            "certificate_hash": "e9540f13572042fcac40cc2eed6acad6ed9363f8"
+          }
+        },
+        {
+          "client_id": "284434143597-g5brc1hhma4oh8ijvo4asnpajg06ond2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgDWxmEPQl_azglznutMUKoA2HVN2xPuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284434143597-g5brc1hhma4oh8ijvo4asnpajg06ond2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284434143597-5810e3ssva8p6vnju126agos655f0h8h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.letsholo.money"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
